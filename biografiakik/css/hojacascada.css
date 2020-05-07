@@ -1,0 +1,33 @@
+html {
+    min-height: 100%;
+}
+body {
+    background: -webkit-linear-gradient(left, #1ad8b88e, #da1717); 
+    background-color: rgb(31, 34, 29); 
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*text-transform: capitalize;*/
+    text-align: justify;
+}
+.yo{
+    display: block;
+    margin: auto;
+    width: 20%;      
+    height: 20%;  
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+div{
+    padding: 3%;
+}
+.futbol{
+    display: block;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+}
+#centra{
+    text-align:center;
+}
