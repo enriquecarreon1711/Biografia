@@ -1,0 +1,12 @@
+{
+    "name": "Biografia implementando JSON",
+    "short_name": "biografia JSON",
+    "lang":"es-MX",
+    "start_url": "./?utm_source = web_app_manifest",
+    "scope": "./",
+    "background_color": "#2C3E50",
+    "theme_color":"#18BC9C",
+    "orientation":"portrait",
+    "display": "standalone" 
+
+}
